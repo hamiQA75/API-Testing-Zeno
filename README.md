@@ -1,6 +1,8 @@
 🎥 Demo Video
 Watch the full API Load Testing process and results here:
-Load Testing Video on Loom
+# 🎥 Demo Video  
+Watch the full API Load Testing process and results here:  
+[Load Testing Video on Loom](https://www.loom.com/share/99ec8a07e8d44108b560e66ead2fdf0c?sid=1e63974a-4e67-4ae0-9789-c5330b5dac5b)
 
 🚀 API Load Testing Report
 📋 Overview
